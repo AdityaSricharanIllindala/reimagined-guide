@@ -1,1 +1,2 @@
 # reimagined-guide
+This repository consists of the code for my Computer Vision assignments. As I keep deleting my Linux distros and keep using new ones, I will be backing up all my code here. Now this repository will also include a course project - Image Captioning with FastAI. I am a noob and an absolute beginner with CV and ML in general 😅 so those who chance upon this profile, it would be appreciated if you take some of ur time in improving my project or giving any ideas about projects I can work on. 
